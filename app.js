@@ -8,12 +8,12 @@ new Vue({
     },
     methods: {
         nounClicked(){
-            alert("a")
+         document.location.href="https://easyenglish.netlify.app/" ;
         },
       
     },
 
-   ,
+
    
 
 })
